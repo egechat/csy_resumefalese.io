@@ -5,7 +5,7 @@ new Vue({
             resume: {
                 base: {
                     name: "陈思颖",
-                    /* sex: "男", */
+                    sex: "丁克主义",
                     birthday: "1995-01",
                     /* address: "上海",*/
                     phone: "17683260807 / +33771654105", 
@@ -14,7 +14,7 @@ new Vue({
                     /* reportState: "月内到岗",
                     experience: "5年经验",
                     position: "全栈工程师",*/
-                    salary: "丁克" 
+                    /* salary: "丁克" */ 
                 },
                 advantage: {
                     content: "软件：熟练ArcGis Pro, Qgis, 了解ENVI, ERDAS,了解Illustrator, 熟悉Micro Office   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   数据库：Geoserver, PostGres, MySQL"  + `<br>` +
